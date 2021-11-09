@@ -1,0 +1,1 @@
+# Odoo_pos_invoice_test
